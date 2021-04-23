@@ -15,14 +15,13 @@ outcome in court and recieve asylum status.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/redux/redux-original.svg" />
+<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="adobePremierePro" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobepremierepro.svg"/>
-<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>
-<img align="left" alt="lightroom" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroom.svg" />
-<img align="left" alt="davinci" width="26px" src="https://img.icons8.com/plasticine/2x/davinci-resolve.png"/>
 
 <br/>
 
