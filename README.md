@@ -28,7 +28,7 @@ outcome in court and recieve asylum status.
 **Projects that interest me most:** Those that provide a service or tool meant to genuinely help vulnerable people or those in need.
 <br/>
 **General Interests:** Movies, Tv Shows, Comics, and anything geeky (づ｡◕‿‿◕｡)づ
-
+<br/>
 **Contact Me:** <br/>
 <br/>
 <img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>=> https://www.linkedin.com/in/ruizajdev/ <br/>
