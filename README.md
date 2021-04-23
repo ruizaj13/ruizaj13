@@ -4,7 +4,7 @@ I'm a recent Lambda School Full Stack Web Development graduate looking to enter 
 and better the world one line of code at a time!
 
 -----
-**Currently working on:** A platform which aggregates asylum case data for
+**Most Recent Work:** A platform which aggregates asylum case data for
 attorneys to leverage with the goal being to supplement their planning 
 and strategization to increase the chance their clients have a positive 
 outcome in court and recieve asylum status.
