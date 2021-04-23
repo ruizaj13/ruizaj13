@@ -30,5 +30,7 @@ outcome in court and recieve asylum status.
 
 **General Interests:** Movies, Tv Shows, Comics, and anything geeky (づ｡◕‿‿◕｡)づ
 
-**Contact Me:** 
+**Contact Me:** <br/>
+<br/>
 [<img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>](https://www.linkedin.com/in/ruizajdev/)
+[<img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>](ruizaj13@.com)
