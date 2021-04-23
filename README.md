@@ -38,5 +38,5 @@ outcome in court and recieve asylum status.
 <img align="left" alt="gmail" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>=> ruizaj13@gmail.com
 
 <div>
-<img align='left' alt="ruizaj13 github stats" src="https://github-readme-stats.vercel.app/api?username=ruizaj13&show_icons=true&theme=react" /> 
+<img align='left' alt="ruizaj13 github stats" src="https://github-readme-stats.vercel.app/api?username=ruizaj13&hide=stars&show_icons=true&theme=react" /> 
 </div>
