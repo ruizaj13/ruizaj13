@@ -32,5 +32,5 @@ outcome in court and recieve asylum status.
 
 **Contact Me:** <br/>
 <br/>
-[<img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>](https://www.linkedin.com/in/ruizajdev/)
-[<img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>](ruizaj13@gmail.com)
+<img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>: https://www.linkedin.com/in/ruizajdev/
+<img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>: ruizaj13@gmail.com
