@@ -36,3 +36,7 @@ outcome in court and recieve asylum status.
 <img align="left" alt="linkdin" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>=> https://www.linkedin.com/in/ruizajdev/ <br/>
 <br/>
 <img align="left" alt="gmail" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"/>=> ruizaj13@gmail.com
+
+<div>
+<img align='left' alt="ruizaj13 github stats" src="https://github-readme-stats.vercel.app/api?username=ruizaj13&show_icons=true&theme=react" /> 
+</div>
