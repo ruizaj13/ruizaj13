@@ -25,8 +25,7 @@ outcome in court and recieve asylum status.
 
 <br/>
 
-**Projects that interest me most:** Those that provide a service or tool meant to genuinely help vulnerable people or those in need.
-
+**Current Focus:** Learning TypeScript and bettering my knowledge of data structures and algorithms
 
 **General Interests:** Movies, Tv Shows, Comics, and anything geeky (づ｡◕‿‿◕｡)づ
 
