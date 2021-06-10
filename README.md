@@ -3,6 +3,8 @@
 I'm a recent Lambda School Full Stack Web Development graduate looking to enter the field 
 and better the world one line of code at a time!
 
+I am a fullstack developer but I have a special love for front-end work. That being said I love nothing more than to adapt to new and exciting challenges, so I'm ready for anything!
+
 -----
 **Most Recent Work:** A platform which aggregates asylum case data for
 attorneys to leverage with the goal being to supplement their planning 
